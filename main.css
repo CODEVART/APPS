@@ -1,0 +1,16 @@
+html, body { background: #f1f1f1; font-family: "Lucida Grande","Segoe UI",Arial,Verdana,Tahoma,sans-serif; text-align: center; margin: 0; padding: 0; font-size: 16px; }
+a { color: #0060A6; text-decoration: none; }
+a:hover { text-decoration: underline; }
+.title { margin: 0; padding: 0 20px 0 0; background: url(images/logo.png) no-repeat 20px; width: 120px; height: 120px; float: left; text-indent: -9999em; }
+.title a { display: block; width: 120px; height: 120px; }
+#frame { margin: 0 auto; width: 960px; background: #ffffff; }
+#header { line-height: 120px; clear: both; text-align: left; font-size: 1.6em; font-weight: bold; }
+#copyright { clear: both; text-align: right; margin: 1em; padding: 0 2em 1em 2em; font-size: .9em; color: #999999; border-top: solid 2px #cccccc; }
+#copyright ul li { list-style: none; float: left; }
+#copyright a { color: #999999; }
+
+#main { width: 620px; margin: 0 auto; overflow: auto; }
+#main .apps, #main .services { width: 300px; height: 100px; margin: 5px; float: left; overflow: hidden; }
+#main .apps a, #main .services a { color: #ffffff; font-weight: bold; line-height: 160px; display: block; width: 300px; height: 100px; }
+#main .apps { background: #669900 url(images/apps.png) no-repeat; }
+#main .services { background: #006699 url(images/codes.png) no-repeat; }
