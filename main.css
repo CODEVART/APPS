@@ -14,3 +14,6 @@ a:hover { text-decoration: underline; }
 #main .apps a, #main .services a { color: #ffffff; font-weight: bold; line-height: 160px; display: block; width: 300px; height: 100px; }
 #main .apps { background: #669900 url(images/apps.png) no-repeat; }
 #main .services { background: #006699 url(images/codes.png) no-repeat; }
+
+.app-desc { text-align: left; }
+.app-desc p { text-indent: 2em; }
