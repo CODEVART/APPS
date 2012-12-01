@@ -9,6 +9,7 @@ a:hover { text-decoration: underline; }
 #copyright ul li { list-style: none; float: left; }
 #copyright a { color: #999999; }
 
+.page-title { font-size: 1em; }
 #main { width: 620px; margin: 0 auto; overflow: auto; }
 #main .apps, #main .services { width: 300px; height: 100px; margin: 5px; float: left; overflow: hidden; }
 #main .apps a, #main .services a { color: #ffffff; font-weight: bold; line-height: 160px; display: block; width: 300px; height: 100px; }
@@ -18,5 +19,5 @@ a:hover { text-decoration: underline; }
 .app-item, .app-desc { text-align: left; padding: 2em; overflow: auto; _height: %1; }
 .app-desc p { text-indent: 2em; }
 #app-desc-nu { background: url(images/nu-icon.png) no-repeat top right; }
-#app-item-nu { background: url(images/nu-icon.png) no-repeat; line-height: 124px; height: 124px; text-indent: 124px; float: left; padding: 1em; }
-.app-item h2, .app-item p { line-height: 100px; }
+#app-item-nu { background: url(images/nu-icon.png) no-repeat 0 center; line-height: 124px; height: 124px; text-indent: 124px; float: left; padding: 1em; }
+.app-item h2, .app-item p { line-height: 180px; }
