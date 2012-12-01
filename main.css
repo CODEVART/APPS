@@ -17,5 +17,6 @@ a:hover { text-decoration: underline; }
 
 .app-item, .app-desc { text-align: left; padding: 2em; overflow: auto; _height: %1; }
 .app-desc p { text-indent: 2em; }
-
-#app-item-nu { background: url(images/nu-icon.png) no-repeat; line-height: 124px; height: 124px; text-indent: 136px; float: left; padding: 1em; }
+#app-desc-nu { background: url(images/nu-icon.png) no-repeat top right; }
+#app-item-nu { background: url(images/nu-icon.png) no-repeat; line-height: 124px; height: 124px; text-indent: 124px; float: left; padding: 1em; }
+.app-item h2, .app-item p { line-height: 100px; }
