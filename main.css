@@ -15,5 +15,7 @@ a:hover { text-decoration: underline; }
 #main .apps { background: #669900 url(images/apps.png) no-repeat; }
 #main .services { background: #006699 url(images/codes.png) no-repeat; }
 
-.app-desc { text-align: left; }
+.app-desc { text-align: left; padding: 1em; }
 .app-desc p { text-indent: 2em; }
+
+#app-item-nu { background: url(images/nu-icon.png) no-repeat; line-height: 124px; height: 124px; }
